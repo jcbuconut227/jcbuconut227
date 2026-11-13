@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="banner.svg" alt="John Carl Alvaro: student, builder, aspiring cybersecurity analyst" width="100%">
+<img src="banner.svg" alt="John Carl Alvaro: builder, problem solver, cybersecurity enthusiast" width="100%">
 
-<sub>
-<a href="https://jclabs-dev.vercel.app">portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/john-carl-alvaro-2b11053b2/">linkedin</a> &nbsp;·&nbsp;
-<a href="mailto:alvarojohncarl495@gmail.com">email</a>
-</sub>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OJT%20%26%20PART--TIME-b6ff3b?style=flat-square" alt="Status: open to OJT and part-time work">
+[![Portfolio](https://img.shields.io/badge/Portfolio-jclabs--dev.vercel.app-b6ff3b?style=flat-square&logo=vercel&logoColor=black)](https://jclabs-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Carl%20Alvaro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-carl-alvaro-2b11053b2/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-1c5739?style=flat-square&logo=gmail&logoColor=white)](mailto:alvarojohncarl495@gmail.com)
 
 </div>
 
@@ -22,20 +16,20 @@
 
 ### Hello, I'm JC
 
-I'm a 4th-year IT student who is drawn to the parts of the internet most people never see, and I want to help keep them safe. I study how things break so I can build things that don't.
+I'm John Carl Alvaro, but everyone calls me JC. I'm from Plaridel, Bulacan, and I'm fascinated by the parts of the internet most people never see. I like figuring out how things work, and how they break, so I can build things that hold up.
 
-Outside of class, I help run my parish's youth programs, which taught me how to plan, delegate, and explain things clearly. I'm now looking for an OJT or part-time role where I can learn from people already working in security.
+When I'm not in front of a screen, I help organize youth programs in my community. I love turning ideas into working projects, and I try to learn something new every week.
 
 </td>
 <td valign="top">
 
 ### Quick facts
 
-**Role:** BSIT student<br>
-**Focus:** Cybersecurity<br>
+**Name:** John Carl Alvaro (JC)<br>
 **Based in:** Plaridel, Bulacan, PH<br>
-**School:** College of Our Lady of Mercy<br>
-**Looking for:** OJT / part-time
+**Focus:** Cybersecurity<br>
+**Also into:** Web development, 3D, networking<br>
+**Exploring:** Encryption and steganography
 
 </td>
 </tr>
@@ -68,7 +62,7 @@ A POS and inventory system for sari-sari stores: a Windows Forms admin app plus 
 <td valign="top">
 
 **AnatomiaLearn 3D**<br>
-My capstone: a gamified 3D anatomy learning app with quizzes, classrooms, and teacher dashboards.<br>
+A gamified 3D anatomy learning app with quizzes, classrooms, and teacher dashboards.<br>
 <sub><code>React</code> <code>Three.js</code> <code>Unity</code> <code>Firebase</code></sub><br>
 <a href="https://anatomia-website.vercel.app">Live</a> · <a href="https://github.com/jcbuconut227/Anatomixs">Code</a>
 
